@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
-  <version>0.0.8</version>
+  <version>0.0.9</version>
   <url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   <description><![CDATA[
+0.0.9
+  * Vergabe einer Kundennummer beim Neuanlegen eines Kunden
+  * Bestimmen der ersten Rechnungsnummer für erste Rechnung
 0.0.8
   * Artikel kann jetzt nur noch mit MwSt erstellt / geändert werden
   ]]></description>
