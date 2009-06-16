@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
-  <version>0.0.39</version>
+  <version>0.0.40</version>
   <url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   <description><![CDATA[
 0.0.15
