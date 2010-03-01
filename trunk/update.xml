@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
-  <version>0.1.3</version>
+  <version>0.1.4</version>
   <url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   <description><![CDATA[
-0.1.3
+0.1.4
   * Preisliste eingefügt
 0.1.2
   * Angebote erstellen
