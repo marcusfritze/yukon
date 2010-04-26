@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
-  <version>0.1.14</version>
+  <version>0.1.15</version>
   <url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   <description><![CDATA[
+0.1.15
+  * Festlegen ob Hinweis für Ausgleichabgabe gedruckt wird oder nicht (anhand von Kundengruppe)
 0.1.13
   * Fehler in Kunden-Auswahl bei Rechnung / Angebot behoben
 0.1.7
