@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
-  <version>0.1.18</version>
+  <version>0.1.19</version>
   <url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   <description><![CDATA[
-0.1.18
+0.1.19
   * Bugfix
 0.1.17
   * Fehler bei Text-Höhen in Rechnung-Ansicht sowie Rechnung-Druck behoben
