@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
-  <version>0.1.19</version>
+  <version>0.2.0</version>
   <url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   <description><![CDATA[
-0.1.19
-  * Bugfix
-0.1.17
-  * Fehler bei Text-Höhen in Rechnung-Ansicht sowie Rechnung-Druck behoben
-0.1.16
-  * Fehler beim Filtern der Daten behoben
-0.1.15
-  * Festlegen ob Hinweis für Ausgleichabgabe gedruckt wird oder nicht (anhand von Kundengruppe)
-0.1.13
-  * Fehler in Kunden-Auswahl bei Rechnung / Angebot behoben
-0.1.7
-  * Karte für Lieferadressen
-0.1.6
-  * Fehler bei Rechnungs- und Lieferadresse des Kunden behoben
-0.1.5
-  * Druckbare Preisliste eingefügt
-0.1.2
-  * Angebote erstellen
-0.1.1
-  * Fehler bei Kunde-Auswahl in Rechnung-Erstellen behoben
-0.1
-  * Release
+0.2.0
+  * Flex 4 SDK Integration
   ]]></description>
 </update>
