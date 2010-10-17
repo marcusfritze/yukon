@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
-  <version>0.2.15</version>
+  <version>0.2.17</version>
   <url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   <description><![CDATA[
-0.2.15
+0.2.17
   * Benutzer-Verwaltung eingefügt
 0.2.14
   * Karte wieder eingefügt
