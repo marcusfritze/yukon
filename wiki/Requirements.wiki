@@ -1,0 +1,24 @@
+#summary One-sentence summary of this page.
+#sidebar Sidebar
+
+=System Requirements=
+
+===Windows===
+
+* Intel® Pentium® III processor (Pentium 4 recommended)
+* Microsoft® Windows® XP Home, Professional, or Tablet PC Edition with Service Pack 2 or 3, Windows Server® 2003, Windows Vista® Home Premium, Business, Ultimate, or Enterprise (including 64-bit editions) with Service Pack 1, or Windows 7
+* 512MB of RAM (1GB recommended)
+
+===Macintosh===
+
+* Intel Core™ Duo or faster processor
+* Mac OS X v10.4, v10.5 or v10.6
+* 512MB of RAM (1GB recommended)
+
+===Linux===
+
+* Intel Pentium III processor (Pentium 4 recommended)
+* Fedora Core 12, Ubuntu 9.10, or openSUSE® 11.2
+* 1GB of RAM
+
+Note: Windows 2000 and Mac PowerPC are not supported with Yukon.
