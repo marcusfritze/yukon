@@ -5,3 +5,4 @@
   * [Tutorials Tutorials]
   * [FeatureRequests Feature Requests]
   * [ToDo]
+  * [ReleaseNotes Release Notes]
