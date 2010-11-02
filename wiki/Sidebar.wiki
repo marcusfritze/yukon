@@ -3,6 +3,7 @@
   * [Requirements System Requirements]
   * [Screenshots Screenshots]
   * [Tutorials Tutorials]
+  * [FAQ FAQ]
   * [FeatureRequests Feature Requests]
   * [ToDo]
   * [ReleaseNotes Release Notes]
