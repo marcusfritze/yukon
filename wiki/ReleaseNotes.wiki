@@ -1,0 +1,6 @@
+#sidebar Sidebar
+
+==Release Notes==
+
+===Yukon 0.2.28===
+  * Bugfixes
