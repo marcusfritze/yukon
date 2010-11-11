@@ -1,0 +1,8 @@
+#summary Here you can find all frequently asked questions.
+#sidebar Sidebar
+
+=Frequently Asked Questions=
+
+No questions available.
+
+If you have a question [mailto:marcus.fritze@googlemail.com?subject=Yukon send an email] to  marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry create an issue] or leave a comment below with your question.
