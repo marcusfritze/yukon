@@ -1,5 +1,5 @@
 #summary Yukon Screenshots
-#sidebar SideBar
+#sidebar Sidebar
 
 ===Yukon 0.2.25===
 
