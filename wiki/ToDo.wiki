@@ -1,5 +1,6 @@
 #summary Here you can find all issues that have to be done.
+#sidebar Sidebar
 
-==next release==
+===next release===
 
 No issues.
