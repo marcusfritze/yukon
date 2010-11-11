@@ -5,6 +5,6 @@
 Welcome to my project. Use the navigation on the left side to navigate through my site and discover the whole program.
 
 
-Currently, this program is only available in German language. If you want to use this program in an other language, drop me an email, [http://code.google.com/p/yukon/issues/entry create an issue] or enter a comment blow.
+Currently, this program is only available in German language. If you want to use this program in an other language, drop me an email, [http://code.google.com/p/yukon/issues/entry create an issue] or leave a comment blow.
 
-Or if you found a bug or you have any suggestion drop me an email, [http://code.google.com/p/yukon/issues/entry create an issue] or [FeatureRequest comment on the Feature Request page].
+Or if you found a bug or you have any suggestion drop me an email, [http://code.google.com/p/yukon/issues/entry create an issue], [FeatureRequest comment on the Feature Request page] or leave a comment below.
