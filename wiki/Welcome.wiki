@@ -5,7 +5,7 @@
 This is the english wiki.
 
 Other Languages:
-  * [Welcome?wl=de Deutsch]
+  * [http://code.google.com/p/yukon/wiki/Welcome?wl=de Deutsch]
 
 Welcome to my project. Use the navigation on the left side to navigate through my site and discover the whole program.
 
