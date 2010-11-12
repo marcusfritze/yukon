@@ -1,6 +1,6 @@
-  * [Willkommen ↑ Start]
+  * [Welcome ↑ Start]
   * [Installation Installation]
-  * [Requirements System Requirements]
+  * [Requirements System Anforderungen]
   * [Screenshots Screenshots]
   * [Tutorials Tutorials]
   * [FAQ FAQ]
