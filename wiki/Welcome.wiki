@@ -2,6 +2,11 @@
 
 = Yukon =
 
+This is the english wiki.
+
+Other Languages:
+  * [Welcome?wl=de Deutsch]
+
 Welcome to my project. Use the navigation on the left side to navigate through my site and discover the whole program.
 
 
