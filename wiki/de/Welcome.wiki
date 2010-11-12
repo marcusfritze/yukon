@@ -2,9 +2,13 @@
 
 = Yukon =
 
-Welcome to my project. Use the navigation on the left side to navigate through my site and discover the whole program.
+Das ist die deutsche wiki.
 
+Andere Sprachen:
+  * [http://code.google.com/p/yukon/wiki/Welcome?wl=en English]
 
-Currently, this program is only available in German language. If you want to use this program in an other language, [mailto:marcus.fritze@googlemail.com?subject=Yukon drop me an email] to marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry create an issue] or leave a comment blow.
+Willkommmen zu meinem Projekt. Benutze bitte die Navigation auf der linken seite um durch zu navigieren und das ganze Programm kennen zu lernen.
 
-Or if you found a bug or you have any suggestion [mailto:marcus.fritze@googlemail.com?subject=Yukon drop me an email] to marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry create an issue], [FeatureRequest comment on the Feature Request page] or leave a comment below.
+Aktuell ist das Programm nur in deutscher Sprache verfügbar. Wenn du Yukon in einer anderen Sprache benutzen möchtest, [mailto:marcus.fritzegooglemail.com?subject=Yukon sende mir eine E-Mail] an marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry erstelle einen Problembericht] oder hinterlasse unten ein Kommentar.
+
+Oder falls du einen Fehler gefunden oder ein paar Vorschläge hast, [mailto:marcus.fritzegooglemail.com?subject=Yukon sende mir eine E-Mail] an marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry erstelle einen Problembericht], [FeatureRequest erstelle ein Kommentar bei den Vorschlägen] oder hinterlasse unten ein Kommentar.
