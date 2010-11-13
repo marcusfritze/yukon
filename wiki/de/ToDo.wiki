@@ -1,4 +1,4 @@
-#summary Here you can find all issues that have to be done in the next releases.
+#summary Hier findest du alle Problemberichte, die in den nächsten Veröffentlichungen behoben werden müssen.
 #sidebar Sidebar
 
 ===next release===

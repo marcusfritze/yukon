@@ -1,4 +1,4 @@
-#summary All supported operating systems.
+#summary Alle unterstützten Betriebssysteme.
 #sidebar Sidebar
 
 =System Anforderungen=
