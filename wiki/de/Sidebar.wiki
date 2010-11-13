@@ -1,4 +1,5 @@
   * [Welcome ↑ Start]
+  * [About Was ist Youkon]
   * [Installation Installation]
   * [Requirements System Anforderungen]
   * [Screenshots Screenshots]

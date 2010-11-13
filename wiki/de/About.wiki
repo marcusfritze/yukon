@@ -1,0 +1,13 @@
+#summary Was ist Yukon?
+#sidebar Sidebar
+
+=Was ist Yukon=
+
+Yukon ist ein Programm, mit dem du deine komplette Rechnungsstellung erledingen kannst.
+
+Du kannst:
+  * Artikel verwalten
+  * Kunden verwalten
+  * Angebote erstellen
+  * Rechnungen (aus Angeboten) erstellen
+  * und viel mehr
