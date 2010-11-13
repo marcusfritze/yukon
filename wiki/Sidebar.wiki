@@ -1,5 +1,5 @@
   * [Welcome ↑ Start]
-  * [About What is Youkon]
+  * [About What is Yukon]
   * [Installation Installation]
   * [Requirements System Requirements]
   * [Screenshots Screenshots]
