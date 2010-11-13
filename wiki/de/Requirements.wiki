@@ -1,24 +1,24 @@
 #summary All supported operating systems.
 #sidebar Sidebar
 
-=System Requirements=
+=System Anforderungen=
 
 ===Windows===
 
-* Intel® Pentium® III processor (Pentium 4 recommended)
-* Microsoft® Windows® XP Home, Professional, or Tablet PC Edition with Service Pack 2 or 3, Windows Server® 2003, Windows Vista® Home Premium, Business, Ultimate, or Enterprise (including 64-bit editions) with Service Pack 1, or Windows 7
-* 512MB of RAM (1GB recommended)
+* Intel® Pentium® III (Pentium 4 empfohlen)
+* Microsoft® Windows® XP Home, Professional oder Tablet PC Edition mit Service Pack 2 oder 3, Windows Server® 2003, Windows Vista® Home Premium, Business, Ultimate oder Enterprise (auch 64 Bit) mit Service Pack 1 oder Windows 7
+* 512 MB RAM (1 GB empfohlen)
 
-===Macintosh===
+===Mac OS===
 
-* Intel Core™ Duo or faster processor
-* Mac OS X v10.4, v10.5 or v10.6
-* 512MB of RAM (1GB recommended)
+* Intel Core™ Duo oder schnellerer Prozessor
+* Mac OS X Version 10.4, 10.5 oder 10.6 (Snow Leopard)
+* 512 MB RAM (1 GB empfohlen)
 
 ===Linux===
 
-* Intel Pentium III processor (Pentium 4 recommended)
-* Fedora Core 12, Ubuntu 9.10, or openSUSE® 11.2
-* 1GB of RAM
+* Intel Pentium III (Pentium 4 empfohlen)
+* Fedora Core 12, Ubuntu 9.10 oder openSUSE 11.2
+* 1 GB RAM
 
-Note: Windows 2000 and Mac PowerPC are not supported with Yukon.
+Hinweis: Yukon kann auf PCs mit Windows 2000 und PowerPC-basierten Macintosh-Rechnern nicht ausgeführt werden.

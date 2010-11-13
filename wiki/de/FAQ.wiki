@@ -1,7 +1,7 @@
-#summary Frequently Asked Questions
+#summary Häufig gestellte Fragen
 #sidebar Sidebar
 
 
-No questions available.
+Keine Fragen verfügbar.
 
-If you have a question, [mailto:marcus.fritze@googlemail.com?subject=Yukon send an email] to  marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry create an issue] or leave a comment below with your question.
+Wenn du eine Frage hast, [mailto:marcus.fritzegooglemail.com?subject=Yukon sende mir eine E-Mail] an marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry erstelle einen Problembericht] oder hinterlasse unten ein Kommentar.

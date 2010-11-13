@@ -1,19 +1,19 @@
 #sidebar Sidebar
 
-===Got a great feature you want added to Yukon?===
+===Du hast einen tolles Feature und möchtest, dass es zu Yukon hinzugefügt wird?===
 
-Check out the list of features below to see if your feature request isn't already in the pipeline. Also ensure that there isn't an outstanding issue for your feature on the issue page. If you think your request is unlisted, [mailto:marcus.fritze@googlemail.com?subject=Yukon send an email] to  marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry create an issue] or leave a comment below with your awesome idea.
+Schau in den unteren Listen, ob dein Vorschlag nicht schon in der Planung ist. Bitte prüfe auch ob dein Vorschlag nicht schon in den [http://code.google.com/p/yukon/issues Problemberichten] vermerkt ist. Wenn du denkst, dass dein Vorschlag noch nicht vorhanden ist, [mailto:marcus.fritzegooglemail.com?subject=Yukon sende mir eine E-Mail] an marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry erstelle einen Problembericht], [FeatureRequests erstelle ein Kommentar bei den Vorschlägen] oder hinterlasse unten ein Kommentar.
 
-==Most Requested Features:==
-
-nothing
-
-
-==Other Feature Requests:==
+==Am häufigsten vorgeschlagene Features:==
 
 nothing
 
 
-==Completed Features:==
+==Andere Vorschläge:==
+
+nothing
+
+
+==Erledigte Vorschläge:==
 
 nothing

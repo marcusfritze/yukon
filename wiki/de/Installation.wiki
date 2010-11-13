@@ -1,9 +1,9 @@
 #sidebar Sidebar
 
-Before you download and install this application you have to install the current version of the Adobe AIR runtime (if you haven't already installed Adobe AIR).
+Bevor Sie dieses Programm herunterladen und installieren benötigen Sie die aktuelle Version von der Adobe AIR Laufzeitumgebung (falls Sie Adobe AIR noch nicht installiert haben).
 
-You can download the current version of Adobe AIR [http://get.adobe.com/air/ here].
+Sie können die aktuelle Version von Adobe AIR [http://get.adobe.com/air/ hier] herunterladen.
 
-After you installed Adobe AIR, you can download and install the current version of Yukon:
+Nachdem Sie Adobe AIR installiert haben, können Sie die aktuelle Version von Yukon herunterladen und installieren:
 
-[http://yukon.googlecode.com/svn/trunk/Yukon.air Download current version of Yukon]
+[http://yukon.googlecode.com/svn/trunk/Yukon.air Aktuelle Version von Yukon herunterladen]

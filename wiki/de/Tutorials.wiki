@@ -1,4 +1,4 @@
-#summary Here you can find some video tutorials for working with Yukon.
+#summary Hier findest du einige Video-Anleitungen für die Verwendung von Yukon.
 #sidebar Sidebar
 
-Currently, no videos available. *_Please, check back later!_*
+Aktuell keine Videos verfügbar. *_Bitte schau später nochmal vorbei!_*
