@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
-  <version>0.2.28</version>
+  <version>0.3.0</version>
   <url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   <description><![CDATA[
-0.2.28
-  * Bugfixes
-0.2.24
-  * Pflanzenliste update
-0.2.23
-  * Bugfixes
-0.2.21
-  * aus Angebot kann jetzt eine Rechnung erstellt werden
-0.2.20
-  * Benutzer-Verwaltung eingefügt
-0.2.14
-  * Karte wieder eingefügt
-0.2.13
-  * Pflanzenliste
+0.3.0
+  * Umsatzstatistik
   ]]></description>
 </update>
