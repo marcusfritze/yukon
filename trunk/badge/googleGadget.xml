@@ -1,42 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
 	<ModulePrefs title="Yukon Badge Installer" />
-	<!-- <Content type="url" href="http://yukon.googlecode.com/svn/trunk/badge/index.html"/> -->
-
-	<Content type="html">
-<![CDATA[
-
-<style type="text/css">
-  div.flashcontainer
-  {
-     background-color: <airTag id="backgroundColor"/>;
-  }
-</style>
-
-<div id="flashcontainer" style="width:215px; height:180px; text-align: center;">
-	<strong>Please upgrade your Flash Player</strong><br>
-	This is the content that would be shown if the user does not have Flash Player 6.0.65 or higher installed.
-</div>
-
-<script type="text/javascript">
-
-    // The URL for the .swf file that shows the specified trick.
-    var url = "http://yukon.googlecode.com/svn/trunk/badge/AIRInstallBadge.swf?nocache=1";
-
-    // Play .swf file.
-      gadgets.flash.embedFlash(url, "flashcontainer", {
-      swf_version: 9.0.115,
-      id: "flashid",
-      width: 215,
-      height: 180,
-      airversion: "2.0",
-      appname: "Yukon",
-      appurl: "http://yukon.googlecode.com/svn/trunk/Yukon.air",
-      appid: "Yukon.3F696BB5150CBC868CAAD3EC0C00DFE96643C389.1",
-      appversion: "0.3.34"
-    })
-
-  </script>
-		]]>
-	</Content>
+	<Content type="url" href="http://yukon.googlecode.com/svn/trunk/badge/index.html"/>
 </Module>
