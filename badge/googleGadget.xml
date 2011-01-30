@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
 	<ModulePrefs title="Yukon Badge Installer" />
-	<Content type="url" href="http://yukon.googlecode.com/svn/trunk/badge/index.html?nocache=1"/>
+	<Content type="url" href="http://yukon.googlecode.com/svn/trunk/badge/YukonBadgeInstaller.html?nocache=1"/>
 </Module>
