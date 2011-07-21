@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-	<versionNumber>0.4.21</versionNumber>
+	<versionNumber>0.4.22</versionNumber>
   	<url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   	<description><![CDATA[
-0.4.21
+0.4.22
   * Bugfixes
 0.4.0
   * neue Auswahl für Kunde und Artikel bei Angebot/Auftrag/Lieferschein/Rechnung
