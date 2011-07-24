@@ -9,6 +9,6 @@ Andere Sprachen:
 
 Willkommmen zu meinem Projekt. Benutze bitte die Navigation auf der linken Seite um durch die Dokumentation zu navigieren und das ganze Programm kennen zu lernen.
 
-Aktuell ist das Programm nur in deutscher Sprache verfügbar. Wenn du Yukon in einer anderen Sprache benutzen möchtest, [mailto:marcus.fritzegooglemail.com?subject=Yukon sende mir eine E-Mail] an marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry erstelle einen Problembericht] oder hinterlasse unten ein Kommentar.
+Aktuell ist das Programm in deutscher und englischer Sprache verfügbar. Wenn du Yukon in einer anderen Sprache benutzen möchtest, [mailto:marcus.fritzegooglemail.com?subject=Yukon sende mir eine E-Mail] an marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry erstelle einen Problembericht] oder hinterlasse unten ein Kommentar.
 
 Oder falls du einen Fehler gefunden oder ein paar Vorschläge hast, [mailto:marcus.fritzegooglemail.com?subject=Yukon sende mir eine E-Mail] an marcus.fritze@googlemail.com, [http://code.google.com/p/yukon/issues/entry erstelle einen Problembericht], [FeatureRequests erstelle ein Kommentar bei den Vorschlägen] oder hinterlasse unten ein Kommentar.
