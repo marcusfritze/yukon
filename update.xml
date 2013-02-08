@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-	<versionNumber>0.6.0</versionNumber>
+	<versionNumber>0.6.1</versionNumber>
   	<url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   	<description><![CDATA[
+0.6.1
+  * E-Mail Konfiguration
 0.6.0
   * Rechnung per PDF senden
 	]]></description>
