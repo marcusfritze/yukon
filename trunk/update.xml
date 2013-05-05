@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-	<versionNumber>0.7.0</versionNumber>
+	<versionNumber>0.7.1</versionNumber>
   	<url>http://yukon.googlecode.com/svn/trunk/Yukon.air</url>
   	<description><![CDATA[
-0.7.0
+0.7.1
   * Bugfixes
 	]]></description>
 </update>
