@@ -1,4 +1,4 @@
 #sidebar Sidebar
 
-===Yukon 0.7.7===
+===Yukon 0.7.6===
   * Bugfixes
