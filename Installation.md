@@ -1,0 +1,7 @@
+Before you download and install this application you have to install the current version of the Adobe AIR runtime (if you haven't already installed Adobe AIR).
+
+You can download the current version of Adobe AIR [here](http://get.adobe.com/air/).
+
+After you installed Adobe AIR, you can download and install the current version of Yukon:
+
+[Download current version of Yukon](http://yukon.googlecode.com/svn/trunk/Yukon.air)
